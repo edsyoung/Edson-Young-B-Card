@@ -4,10 +4,10 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Young, Edson;;;
 FN: Edson W.M. Young
 ORG:Contractor - Sev1Tech
-ORG:PM Tactical Radios;
-TITLE:Field Support Technician\nProducts Team, Data Science Division
+ORG:PM Tactical Radios
+TITLE:Field Support Technician
 EMAIL;type=INTERNET;type=WORK;type=pref:edson.w.young.ctr@mail.mil
-TEL;type=WORK;type=CELL:+609-234-8617
+TEL;type=WORK;type=CELL:609-234-8617
 item1.ADR;type=WORK;type=pref:;;6560 Surviellance Loop\nBLDG 6007 F5-101-134\nAberdeen Proving Ground, MD 21005
 item1.X-ABADR:sg
 item2.X-ABLabel:_$!<HomePage>!$_
